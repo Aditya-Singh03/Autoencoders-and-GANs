@@ -60,6 +60,5 @@ The `readme.md` file also includes a written report section, where you'll answer
 
 ### Acknowledgments
 
-This project was inspired by various online resources and tutorials. We extend our gratitude to the authors and contributors of these valuable learning materials.
-
-Let's embark on this journey of image generation and unlock the creative potential of deep learning! If you have any questions or suggestions, feel free to open an issue or contribute to the project. Happy coding! 
+This project was inspired by various online resources and tutorials.
+If you have any questions or suggestions, feel free to open an issue or contribute to the project. Happy coding! 
